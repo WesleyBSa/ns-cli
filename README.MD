@@ -9,8 +9,6 @@ A **NS-CLI** é um utilitário de linha de comando que permite buscar os endere�
 
 ## Tecnologias Utilizadas
 
-![Golang](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg)
-
 - **Golang**: Linguagem de programação utilizada para desenvolver a aplicação.
 - **urfave/cli**: Biblioteca utilizada para criação da interface de linha de comando.
 
